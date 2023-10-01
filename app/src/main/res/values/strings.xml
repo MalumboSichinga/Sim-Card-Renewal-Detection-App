@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Simcard Renewal Detection App</string>
+    <string name="app_title" translatable="false">Welcome Back</string>
+    <string name="btntxt_login" translatable="false">LOGIN</string>
+    <string name="txt_forgotpwd" translatable="false">Forgot Password</string>
+    <string name="txt_noaccount" translatable="false">Do Not Have Account ?</string>
+    <string name="txt_signup" translatable="false">Sign Up</string>
+</resources>
